@@ -1,0 +1,10 @@
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\bin\Debug\TrayIcon.exe.config
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\bin\Debug\TrayIcon.exe
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\bin\Debug\TrayIcon.pdb
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.csprojResolveAssemblyReference.cache
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.Form1.resources
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.Properties.Resources.resources
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.csproj.GenerateResource.cache
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.csproj.CoreCompileInputs.cache
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.exe
+C:\Users\DSM2018\source\repos\TrayIcon\TrayIcon\obj\Debug\TrayIcon.pdb
